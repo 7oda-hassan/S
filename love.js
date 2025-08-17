@@ -13,7 +13,7 @@ const demoGalaxyData = {
     ],
     icons: ["♥", "💖", "❤️", "❤️", "💕", "💕"],
     colors: '#ff6b9d',
-    images: [""],
+    images: ["./U"],
     song: "Kol.mp3",
     isHeart: true,
     textHeart: "",
