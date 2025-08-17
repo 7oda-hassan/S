@@ -8,7 +8,7 @@ const demoGalaxyData = {
     messages: [
         "I love you so much! ❤️", "Our Anniversary", "I love you 💖", "18/8/2006",
         "Thank you for being my sunshine ", "Thank you for being my everything 💕",
-        "You are my universe ", "There is no other", "17/7/2003",
+        "You are my universe ", "There is no other", "18/8/2006",
         "You make my heart smile ",  "Honey bunch, you are my everything! "
     ],
     icons: ["♥", "💖", "❤️", "❤️", "💕", "💕"],
